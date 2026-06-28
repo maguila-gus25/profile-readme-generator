@@ -47,7 +47,11 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maguila-gus25/maguila-gus25/output/snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maguila-gus25/maguila-gus25/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maguila-gus25/maguila-gus25/output/snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/maguila-gus25/maguila-gus25/output/snake.svg" />
+  </picture>
 </div>
 
 ### 🔗 Connect with me
